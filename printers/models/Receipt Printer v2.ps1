@@ -1,4 +1,5 @@
 # v2: detects USB vs network connection before install
+# v2: detects USB vs network connection before install
 # Get the hostname of the computer
 $hostname = $env:COMPUTERNAME
 
