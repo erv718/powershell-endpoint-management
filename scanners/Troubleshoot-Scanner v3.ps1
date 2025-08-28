@@ -1,3 +1,5 @@
+# Barcode scanner USB reset - added August 2025
+# Fixes intermittent scanner dropouts at club front desks
 # Barcode scanner USB reset - added April 2022
 # Fixes intermittent scanner dropouts at club front desks
 <#
